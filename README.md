@@ -28,7 +28,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=lianne-deldacan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🏅 Certifications
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="743eb673-f9e7-4e15-be35-19fcd3306579" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![](https://www.credly.com/badges/743eb673-f9e7-4e15-be35-19fcd3306579/public_url)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
