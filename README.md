@@ -27,6 +27,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lianne-deldacan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## 🏅 Certifications
+[![Google UX Design](https://your-image-url)](https://www.credly.com/badge-link)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
