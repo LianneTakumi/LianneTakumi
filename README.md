@@ -33,9 +33,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lianne-deldacan&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </p>
 
-## 🏅 Certifications
-![](https://www.credly.com/badges/743eb673-f9e7-4e15-be35-19fcd3306579/public_url)
-
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Dev Quote">
