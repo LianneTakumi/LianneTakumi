@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Budding AI Software Engineer | Full Stack Developer ✨
+✨ Budding Software Engineer | Full Stack Developer ✨
 
 <p align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZzZDI3eTBrZGtpbWEzdTVmNjFrY3FucTFoMDB5Y2Q4NTA4djk4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gKHGnB1ml0moQdjhEJ/giphy.gif" width="250" height="250">
