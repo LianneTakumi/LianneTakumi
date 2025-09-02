@@ -62,6 +62,55 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=LianneTakumi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/annailvyadne/annailvyadne/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lianne.dev/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@lianne.dev/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lianne.dev/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@lianne.dev/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lianne.dev/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@lianne.dev/2" alt="Medium post 3"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@lianne.dev/3">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@lianne.dev/3" alt="Medium post 4"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Lianne">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Lianne&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 ---
 [![](https://visitcount.itsvg.in/api?id=LianneTakumi&icon=9&color=10)](https://visitcount.itsvg.in)
 
