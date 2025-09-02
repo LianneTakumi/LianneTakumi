@@ -21,16 +21,16 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lianne-deldacan&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=LianneTakumi&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lianne-deldacan&theme=radical&hide_border=false" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LianneTakumi&theme=radical&hide_border=false" alt="GitHub Streak">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lianne-deldacan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LianneTakumi&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lianne-deldacan&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=LianneTakumi&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </p>
 
 ### ✍️ Random Dev Quote
@@ -39,9 +39,9 @@
 </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lianne-deldacan&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=LianneTakumi&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lianne-deldacan&icon=4&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=LianneTakumi&icon=4&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
